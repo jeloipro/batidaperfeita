@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "title": "Batida Perfeita",
+    "titleTemplate": "%s",
+    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "siteUrl": "https://foundation.stackrole.com",
+    "image": "/assets/stackrole1.png",
+    "iconimage": "/assets/stackrole1.png",
+    "twitterUsername": ""
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
