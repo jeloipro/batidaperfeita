@@ -48,6 +48,8 @@ module.exports = {
               autoplay: false
             }
           },
+
+
           {
             resolve: `gatsby-plugin-social9-socialshare`,
             options: {
@@ -64,7 +66,7 @@ module.exports = {
               content: "073004d757df4a7ca401fc742b11a17a",
               src: "socialshare.min.js"
             },
-        },
+          },
 
           {
             resolve: "gatsby-remark-embed-video",
@@ -235,6 +237,7 @@ module.exports = {
       },
     },
 
+    
   //
     'gatsby-plugin-offline',
   ],
