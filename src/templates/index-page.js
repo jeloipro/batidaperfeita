@@ -8,6 +8,12 @@ import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
 
+// import icons
+import { FaInstagram } from "react-icons/fa"
+import { FaFacebook } from "react-icons/fa"
+import { FaTelegram } from "react-icons/fa"
+import { FaYoutube } from "react-icons/fa"
+
 export const pageQuery = graphql`
   query HomeQuery($id: String!){
 		markdownRemark(id: { eq: $id }) {
@@ -63,6 +69,14 @@ const HomePage = ({ data }) => {
           >
             {frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span>
           </Link>
+
+          <ul id="navbatidaperfeita" >
+            <li><a  class="icon -center" href="https://www.batidaperfeita.confira.link/instagram" target="_blank" rel="noopener noreferrer"><FaInstagram size={25} style={{ fill: '#d0374a' }} /></a>     </li>
+            <li><a class="icon -center" href="https://www.batidaperfeita.confira.link/youtube" target="_blank" rel="noopener noreferrer"><FaYoutube size={30} style={{ fill: '#d0374a' }}/></a>     </li>
+            <li><a class="icon -center" href="https://www.batidaperfeita.confira.link/facebook" target="_blank" rel="noopener noreferrer"><FaFacebook size={30} style={{ fill: '#d0374a' }}/></a>     </li>
+            <li><a class="icon -center" href="https://www.batidaperfeita.confira.link/telegram" target="_blank" rel="noopener noreferrer"><FaTelegram size={30} style={{ fill: '#d0374a' }}/></a>     </li>
+          </ul> 
+
         </div>
         <div>
           {Image ? (
