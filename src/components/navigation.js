@@ -19,6 +19,11 @@ const MenuItems = [
     title: "Blog"
   },
   {
+    path: "https://www.batidaperfeita.confira.link/instagram",
+    title: "Instagram"
+  },
+
+  {
     path: "/contact",
     title: "Contato"
   },
