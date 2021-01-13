@@ -71,10 +71,10 @@ const HomePage = ({ data }) => {
           </Link>
 
           <ul id="navbatidaperfeita" >
-            <li><a  class="icon -center" href="https://www.batidaperfeita.confira.link/instagram" target="_blank" rel="noopener noreferrer"><FaInstagram size={25} style={{ fill: '#d0374a' }} /></a>     </li>
-            <li><a class="icon -center" href="https://www.batidaperfeita.confira.link/youtube" target="_blank" rel="noopener noreferrer"><FaYoutube size={30} style={{ fill: '#d0374a' }}/></a>     </li>
-            <li><a class="icon -center" href="https://www.batidaperfeita.confira.link/facebook" target="_blank" rel="noopener noreferrer"><FaFacebook size={30} style={{ fill: '#d0374a' }}/></a>     </li>
-            <li><a class="icon -center" href="https://www.batidaperfeita.confira.link/telegram" target="_blank" rel="noopener noreferrer"><FaTelegram size={30} style={{ fill: '#d0374a' }}/></a>     </li>
+            <li><a  class="icon -center" href="https://batidaperfeita.confira.link/instagram" target="_blank" rel="noopener noreferrer"><FaInstagram size={25} style={{ fill: '#d0374a' }} /></a>     </li>
+            <li><a class="icon -center" href="https://batidaperfeita.confira.link/youtube" target="_blank" rel="noopener noreferrer"><FaYoutube size={30} style={{ fill: '#d0374a' }}/></a>     </li>
+            <li><a class="icon -center" href="https://batidaperfeita.confira.link/facebook" target="_blank" rel="noopener noreferrer"><FaFacebook size={30} style={{ fill: '#d0374a' }}/></a>     </li>
+            <li><a class="icon -center" href="https://batidaperfeita.confira.link/telegram" target="_blank" rel="noopener noreferrer"><FaTelegram size={30} style={{ fill: '#d0374a' }}/></a>     </li>
           </ul> 
 
         </div>
