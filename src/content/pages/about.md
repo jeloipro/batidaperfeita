@@ -12,3 +12,5 @@ title: Sobre a Batida Perfeita
 🔔 *Trabalhamos muito para encontrar músicas melhores e mais interessantes para você! Esperamos tornar sua vida melhor através da música compartilhada!*
 
 👍 **Compartilhe** os vídeos em suas redes sociais (*Facebook, Whatsapp, Twitter, etc.*)
+
+###Agora no [Spotify](https://open.spotify.com/show/5FLZVnALOHhYeUCHfqhnCI/)###
