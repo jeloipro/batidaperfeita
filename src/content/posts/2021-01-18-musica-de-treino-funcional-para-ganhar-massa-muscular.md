@@ -13,6 +13,8 @@ featuredImage: /assets/2021-01-18-musica-de-treino-funcional-para-ganhar-massa-m
 
 😊 🎤 Abandoned, InfiNoise & Mendum 🎧 See You at the End (feat. Brenton Mattheus) [No Copyright]
 
+🎧 "Listen on Spotify ▶ https://batidaperfeita.confira.link/spotify" 
+
 ⏬ Free Download da Music / Stream ⏬
 
 `audio: /assets/audio/2021-01-18-musica-de-treino-funcional-para-ganhar-massa-muscular.mp3`

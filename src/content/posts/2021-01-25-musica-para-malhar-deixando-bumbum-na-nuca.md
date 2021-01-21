@@ -13,7 +13,7 @@ featuredImage: /assets/2021-01-25-musica-para-malhar-deixando-bumbum-na-nuca.jpg
 
 😊 🎤 Tom Wilson 🎧 Be Myself [No Copyright]
 
-🎧 "Listen on Spotify ▶ https://open.spotify.com/show/5FLZVnALOHhYeUCHfqhnCI" 
+🎧 "Listen on Spotify ▶ https://batidaperfeita.confira.link/spotify" 
 
 🆓 Free Music Download 🔽
 
