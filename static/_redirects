@@ -1,6 +1,6 @@
 # Redirects from what the browser requests to what we serve
-/instagram/*              https://www.instagram.com/br.batidaperfeita:splat 200
-/youtube/*                https://youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1:splat 200
+/instagram/*               https://www.instagram.com/br.batidaperfeita/:splat 200
+/youtube/*                 https://youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1:splat 200
 /facebook/*                https://www.facebook.com/br.batidaperfeita:splat 200
 /telegram/*                https://t.me/brbatidaperfeita:splat 200
 /spotify/*                 https://open.spotify.com/show/4X6N9fEEztz6IkaNp6gUb9:splat 200
