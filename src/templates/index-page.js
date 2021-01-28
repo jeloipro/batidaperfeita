@@ -76,7 +76,6 @@ const HomePage = ({ data }) => {
             <li><a class="icon -center" href="https://batidaperfeita.confira.link/youtube" target="_blank" rel="noopener noreferrer"><FaYoutube size={30} style={{ fill: '#d0374a' }}/></a>     </li>
             <li><a class="icon -center" href="https://batidaperfeita.confira.link/facebook" target="_blank" rel="noopener noreferrer"><FaFacebook size={30} style={{ fill: '#d0374a' }}/></a>     </li>
             <li><a class="icon -center" href="https://batidaperfeita.confira.link/telegram" target="_blank" rel="noopener noreferrer"><FaTelegram size={30} style={{ fill: '#d0374a' }} /></a>     </li>
-            <li><a class="icon -center" href="https://batidaperfeita.confira.link/spotify" target="_blank" rel="noopener noreferrer"><FaPodcast size={30} style={{ fill: '#d0374a' }} /></a>     </li>
             
           </ul> 
 
