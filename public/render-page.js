@@ -133,7 +133,7 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-google-analytics/gatsby-ssr */ "./node_modules/gatsby-plugin-google-analytics/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "trackingId": "UA-XXXXXXXXX-X",
+    "trackingId": "G-ZJ1KELX31M",
     "head": false,
     "anonymize": false,
     "respectDNT": false,
@@ -171,9 +171,9 @@ var plugins = [{
     "feeds": [{
       "query": "\n              {\n                allMarkdownRemark(\n                  sort: { order: DESC, fields: [frontmatter___date] },\n                ) {\n                  edges {\n                    node {\n                      fields {\n                        slug\n                      }\n                      frontmatter {\n                        date\n                        description\n                        title\n                      }\n                      excerpt\n                      html\n                    }\n                  }\n                }\n              }\n            ",
       "output": "/rss.xml",
-      "title": "Batida Perfeita",
-      "match": "^/batidaperfeita.confira.link/",
-      "link": "https://feeds.feedburner.com/batidaperfeita.confira.link"
+      "title": "Batida Perfeita`s RSS Feed",
+      "match": "^/blog/",
+      "link": "https://feeds.feedburner.com/batidaperfeita"
     }]
   }
 }, {

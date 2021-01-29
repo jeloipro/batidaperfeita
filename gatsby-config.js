@@ -136,6 +136,7 @@ module.exports = {
       },
     },
   // Meu Plugins 
+
     {
       resolve: `gatsby-plugin-feed`,
       options: {
@@ -206,18 +207,19 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: 'Batida Perfeita',
+            title: 'Batida Perfeita`s RSS Feed',
             // Configurações opcionais
             // Esse cara serve para você colocar onde você quer que o feed se alimente. Por exemplo, você tem um site pessoal e tem um blog dentro dele com a url www.meusiteboladao.com/blog/
             // Aí você vai colocar o ^/blog/ nessa chave
-            match: '^/batidaperfeita.confira.link/',
+            match: '^/blog/',
             // Mais um opcional que eu acho útil caso você use o Feedburner, como eu.
             // É algo do tempo do ronca, eu sei, mas vai que tem gente que ainda o utiliza, então vale deixar já configurado
-            link: 'https://feeds.feedburner.com/batidaperfeita.confira.link',
+            link: 'http://feeds.feedburner.com/BatidaPerfeita',
           },
         ],
       },
     },
+
     {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {
