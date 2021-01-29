@@ -140,28 +140,16 @@ module.exports = {
     {
       resolve: `gatsby-plugin-feed`,
       options: {
-        query: `
-          {
-            site {
-              siteMetadata {
-                title
-                description
-                siteUrl
-                site_url: siteUrl
-              }
-            }
-          }
-        `,
         feeds: [
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
-              return allMarkdownRemark.edges.map((edge) => {
+              return allMarkdownRemark.edges.map(edge => {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                  custom_elements: [{ 'content:encoded': edge.node.html }],
+                  custom_elements: [{ "content:encoded": edge.node.html }]
                 });
               });
             },
@@ -184,42 +172,21 @@ module.exports = {
                 }
               }
             `,
-            query: `
-              {
-                allMarkdownRemark(
-                  sort: { order: DESC, fields: [frontmatter___date] },
-                ) {
-                  edges {
-                    node {
-                      fields {
-                        slug
-                      }
-                      frontmatter {
-                        date
-                        description
-                        title
-                      }
-                      excerpt
-                      html
-                    }
-                  }
-                }
-              }
-            `,
-            output: '/rss.xml',
-            title: 'Batida Perfeita`s RSS Feed',
+            output: "/blog/rss.xml",
+            match: "^/blog/"
+            //title: 'Batida Perfeita's RSS Feed',
             // Configurações opcionais
             // Esse cara serve para você colocar onde você quer que o feed se alimente. Por exemplo, você tem um site pessoal e tem um blog dentro dele com a url www.meusiteboladao.com/blog/
             // Aí você vai colocar o ^/blog/ nessa chave
-            match: '^/blog/',
             // Mais um opcional que eu acho útil caso você use o Feedburner, como eu.
             // É algo do tempo do ronca, eu sei, mas vai que tem gente que ainda o utiliza, então vale deixar já configurado
-            link: 'http://feeds.feedburner.com/BatidaPerfeita',
-          },
-        ],
-      },
-    },
+            //link: 'https://feeds.feedburner.com/batidaperfeita.confira.link',
 
+          }
+        ]
+      }
+    },  
+    
     {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {
