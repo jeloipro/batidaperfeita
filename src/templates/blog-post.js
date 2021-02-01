@@ -8,6 +8,8 @@ import Layout from "../components/layout"
 import SEO from '../components/seo';
 
 import { RiFileMusicLine } from "react-icons/ri";
+import { DiscussionEmbed } from 'disqus-react';
+
 
 const styles = {
   'article blockquote': {
@@ -67,6 +69,14 @@ const Post = ({ data, pageContext }) => {
   const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
   const { previous, next } = pageContext
 
+  // Disqs
+  const disqusShortname = "batidaperfeita";
+  const disqusConfig = {
+    identifier: frontmatter.identifier,
+    title: frontmatter.title,
+  };
+  //
+
   let props = {
     previous,
     next
@@ -103,6 +113,9 @@ const Post = ({ data, pageContext }) => {
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </article>
+
+      <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+      
       {(previous || next) && (
         <Pagination {...props} />
       )}
