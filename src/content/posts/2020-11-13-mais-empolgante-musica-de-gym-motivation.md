@@ -11,30 +11,26 @@ featuredImage: /assets/mais-empolgante-musica-de-gym-motivation.jpg
 <!-- #1: Embed through web URL -->
 `video: https://youtu.be/fUxJvUfDe1o`
 
-😊 No Starlight Dey Beat - Nana Kwabena (No Copyright)
+###😊 No Starlight Dey Beat - Nana Kwabena (No Copyright)###
 
-⏬ Free Download da Música / Stream ⏬
+**⏬ Free Download da Música / Stream ⏬**
 
 `audio: /assets/audio/5-2020-11-13.mp3`
 
-⏬ Música da Playlist 💙 Top Músicas para Malhar na Academia [2020] ⏬
-▶ https://www.youtube.com/playlist?list=PLM1nZ8E73E3NtqMYjsTjToyixN4ux5if7
+▶  <a href='https://www.youtube.com/playlist?list=PLM1nZ8E73E3NtqMYjsTjToyixN4ux5if7' rel="nofollown noopener noreferrer" target="_blank">Música da Playlist 💙 Top Músicas para Malhar na Academia -2020</a>
+
  
-#gym #academia #treinar
+▶ **#gym #academia #treinar**
 
-🏆 MEUS MELHORES VÍDEOS (MY BEST VIDEOS) ⏬⏬:
+**🏆 MEUS MELHORES VÍDEOS (MY BEST VIDEOS) ⏬⏬:**
 
-⏩ Video Link: https://youtu.be/fUxJvUfDe1o
+⏩ <a href='https://youtu.be/fUxJvUfDe1o' rel="nofollown noopener noreferrer" target="_blank">Video Link</a>
 
-⏩ Música para Malhar na Academia ou em Casa [2020]
-https://www.youtube.com/watch?v=SPKRxS8QQ_A
+⏩ <a href='https://www.youtube.com/watch?v=SPKRxS8QQ_A' rel="nofollown noopener noreferrer" target="_blank">Música para Malhar na Academia ou em Casa - 2020</a>
 
-⏩ Musica para Treinar na Academia ou em Casa [2020]
-https://youtu.be/yxwERCGNSXE
+⏩ <a href='https://youtu.be/yxwERCGNSXE' rel="nofollown noopener noreferrer" target="_blank">Musica para Treinar na Academia ou em Casa - 2020</a>
 
-⏩ Música para Fire Music Música Academia [2020]
-https://www.youtube.com/watch?v=WJHjEwQrKEs
+⏩ <a href='https://www.youtube.com/watch?v=WJHjEwQrKEs' rel="nofollown noopener noreferrer" target="_blank">Música para Fire Music Música Academia -2020</a>
 
-⏩ Melhor Música de Academia [2020]
-https://www.youtube.com/watch?v=sNe0xcZXFgE
+⏩ <a href='https://www.youtube.com/watch?v=sNe0xcZXFgE' rel="nofollown noopener noreferrer" target="_blank">Melhor Música de Academia - 2020</a>
 

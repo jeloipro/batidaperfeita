@@ -11,33 +11,26 @@ featuredImage: /assets/melhor-musica-para-malhar-sem-sair-de-casa.jpg
 <!-- #1: Embed through web URL -->
 `video: https://youtu.be/J7EsJfE8fEE`
 
-😊 Let It Me - Jeremy Black (No Copyright)
+###😊 Let It Me - Jeremy Black (No Copyright)###
 
-⏬ Free Download da Música / Stream ⏬
+**⏬ Free Download da Música / Stream ⏬**
 
 `audio: /assets/audio/8-2020-11-13.mp3`
 
-⏬ Música da Playlist 💙 Top Músicas para Malhar na Academia [2020] ⏬
-▶ https://www.youtube.com/playlist?list=PLM1nZ8E73E3NtqMYjsTjToyixN4ux5if7
+▶ <a href='https://www.youtube.com/playlist?list=PLM1nZ8E73E3NtqMYjsTjToyixN4ux5if7' rel="nofollow noopener noreferrer" target="_blank">Música da Playlist 💙 Top Músicas para Malhar na Academia - 2020</a>
  
-#gym #academia #treinar
+▶ **#gym #academia #treinar**
 
-🏆 MEUS MELHORES VÍDEOS (MY BEST VIDEOS) ⏬⏬:
+**🏆 MEUS MELHORES VÍDEOS (MY BEST VIDEOS) ⏬⏬**
 
-⏩ Video Link: https://youtu.be/J7EsJfE8fEE
+⏩ <a href='https://youtu.be/J7EsJfE8fEE' rel="nofollow noopener noreferrer" target="_blank">Video Link</a>
 
-⏩ Música para Malhar na Academia ou em Casa [2020]
-https://www.youtube.com/watch?v=SPKRxS8QQ_A
+⏩ <a href='https://www.youtube.com/watch?v=SPKRxS8QQ_A' rel="nofollow noopener noreferrer" target="_blank">Música para Malhar na Academia ou em Casa - 2020</a>
 
-⏩ Musica para Treinar na Academia ou em Casa [2020]
-https://youtu.be/yxwERCGNSXE
+⏩ <a href='https://youtu.be/yxwERCGNSXE' rel="nofollow noopener noreferrer" target="_blank">Musica para Treinar na Academia ou em Casa - 2020</a>
 
-⏩ Música para Fire Music Música Academia [2020]
-https://www.youtube.com/watch?v=WJHjEwQrKEs
+⏩ <a href='https://www.youtube.com/watch?v=WJHjEwQrKEs' rel="nofollow noopener noreferrer" target="_blank">Música para Fire Music Música Academia - 2020</a>
 
-⏩ Melhor Música de Academia [2020]
-https://www.youtube.com/watch?v=sNe0xcZXFgE
+⏩ <a href='https://www.youtube.com/watch?v=sNe0xcZXFgE' rel="nofollow noopener noreferrer" target="_blank">Melhor Música de Academia - 2020</a>
 
-⏩ Mais Empolgante Música de Gym Motivation
-https://www.youtube.com/watch?v=fUxJvUfDe1o
-
+⏩ <a href='https://www.youtube.com/watch?v=fUxJvUfDe1o' rel="nofollow noopener noreferrer" target="_blank">Mais Empolgante Música de Gym Motivation</a>

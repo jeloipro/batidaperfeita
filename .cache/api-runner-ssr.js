@@ -18,7 +18,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/home/thor/Development/gatsby/batidaperfeita/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Batida Perfeita","short_name":"BatidaPerfeita","start_url":"/","background_color":"#f7f0eb","theme_color":"#a2466c","display":"standalone","icon":"static/assets/stackrole1.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"3d4a21f3dfc0ec52d1f4d7d7aabd07f7"},
+      options: {"plugins":[],"name":"Batida Perfeita","short_name":"BatidaPerfeita","start_url":"/","background_color":"#f7f0eb","theme_color":"#a2466c","display":"standalone","icon":"static/assets/batida-perfeita-favicon2.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"038e61b916270308f347ccf97aa2367e"},
     },{
       plugin: require('/home/thor/Development/gatsby/batidaperfeita/node_modules/gatsby-plugin-feed/gatsby-ssr'),
       options: {"plugins":[],"feeds":[{"query":"\n              {\n                allMarkdownRemark(\n                  sort: { order: DESC, fields: [frontmatter___date] },\n                ) {\n                  edges {\n                    node {\n                      excerpt\n                      html\n                      fields { slug }\n                      frontmatter {\n                        title\n                        date\n                      }\n                    }\n                  }\n                }\n              }\n            ","output":"/blog/rss.xml","match":"^/blog/"}]},

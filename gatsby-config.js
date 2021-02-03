@@ -31,6 +31,7 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    'gatsby-plugin-robots-txt',
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -49,11 +50,18 @@ module.exports = {
             }
           },
 
-
           {
             resolve: `gatsby-plugin-social9-socialshare`,
             options: {
               content:  `073004d757df4a7ca401fc742b11a17a`,
+            }
+          },
+
+          {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "nofollow noopener noreferrer"
             }
           },
 

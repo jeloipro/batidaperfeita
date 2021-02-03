@@ -11,39 +11,26 @@ featuredImage: /assets/2021-01-08-motivacao-a-melhor-musica-para-seu-treino-func
 <!-- #1: Embed through web URL -->
 `video: https://youtu.be/pzWfrnRGdbg`
 
-😊 DEAF KEV - Safe & Sound with Sendi Hoxha [No Copyright]
+###😊 DEAF KEV - Safe & Sound with Sendi Hoxha [No Copyright]###
 
-⏬ Free Download da Music / Stream ⏬
+**⏬ Free Download da Music / Stream ⏬**
 
 `audio: /assets/audio/2021-01-08-motivacao-a-melhor-musica-para-seu-treino-funcional.mp3`
 
-⏬ Melhores Músicas da Playlist 💙 
-▶ https://www.youtube.com/watch?v=WBrEy85Q5W4&list=PLM1nZ8E73E3Pvwma0mKPruAnPQkHsQCl7
+▶ <a href='https://www.youtube.com/watch?v=WBrEy85Q5W4&list=PLM1nZ8E73E3Pvwma0mKPruAnPQkHsQCl7' rel="nofollow noopener noreferrer" target="_blank">⏬ Melhores Músicas da Playlist 💙 </a>
  
-#gym #treino #abs
+▶ **#gym #treino #abs**
 
-⏩ Video Link: 
+💣 <a href='http://spoti.fi/NCS' rel="nofollow noopener noreferrer" target="_blank">"Music provided by http://spoti.fi/NCS"</a>
 
-💣 "Music provided by http://spoti.fi/NCS" 
+😎<a href='https://www.youtube.com/channel/UCp44Y4Anwn1Hlj0pWx7gqwg ?sub_confirmation=1' rel="nofollow noopener noreferrer" target="_blank">Inscreva-se no Canal</a>
 
-😎Inscreva-se no Canal: https://www.youtube.com/channel/UCp44Y4Anwn1Hlj0pWx7gqwg ?sub_confirmation=1
+**🏆 MEUS MELHORES VÍDEOS (MY BEST VIDEOS) ⏬⏬**
 
-🏆 MEUS MELHORES VÍDEOS (MY BEST VIDEOS) ⏬⏬:
+⏩ <a href='https://www.youtube.com/watch?v=WBrEy85Q5W4' rel="nofollow noopener noreferrer" target="_blank">BOOM - A melhor música para Malhação na Academia</a>
 
-⏩ BOOM - A melhor música para Malhação na Academia
-https://www.youtube.com/watch?v=WBrEy85Q5W4
+⏩ <a href='https://www.youtube.com/watch?v=SPKRxS8QQ_A' rel="nofollow noopener noreferrer" target="_blank">Música para Malhar na Academia ou em Casa [2020]</a>
 
-⏩ Música para Malhar na Academia ou em Casa [2020]
-https://www.youtube.com/watch?v=SPKRxS8QQ_A
+⏩ <a href='https://youtu.be/yxwERCGNSXE' rel="nofollow noopener noreferrer" target="_blank">Musica para Treinar na Academia ou em Casa [2020]</a>
 
-⏩ Musica para Treinar na Academia ou em Casa [2020]
-https://youtu.be/yxwERCGNSXE
-
-⏩ Música para Fire Music Música Academia [2020]
-https://www.youtube.com/watch?v=WJHjEwQrKEs
-
-✅ Indice: 
-00:00 - Cubra com veu Nana
-00:40 - Deixe seu Like
-01:59 - Inscreva-se no Canal😉
-02:40 - Veja o Link na Descrição
+⏩ <a href='https://www.youtube.com/watch?v=WJHjEwQrKEs' rel="nofollow noopener noreferrer" target="_blank">Música para Fire Music Música Academia [2020]</a>

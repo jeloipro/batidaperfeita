@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://batidaperfeita.confira.link/sitemap.xml
+Host: https://batidaperfeita.confira.link

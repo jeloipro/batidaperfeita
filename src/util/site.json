@@ -2,10 +2,13 @@
   "meta": {
     "title": "Batida Perfeita",
     "titleTemplate": "%s",
-    "description": "👊 Seja muito bem vindo ao A Procura da Batida Perfeita, Canal criado para promover Músicas para Motivação em seu treino.\nSe você gosta do que ouve, apoie os produtores e mostre seu feedback gostando ou não, para que eu saiba o que enviar a seguir!\n\n🔔 Trabalhamos muito para encontrar músicas melhores e mais interessantes para você! Esperamos tornar sua vida melhor através da música compartilhada!\n\n👍 Compartilhe os vídeos em suas redes sociais (Facebook, Whatsapp, Twitter, etc.)",
+    "description": "Blog A Procura da BatidaPerfeita, promove Músicas para Motivação em seu treino.",
     "siteUrl": "https://batidaperfeita.confira.link/",
-    "image": "/assets/stackrole1.png",
-    "iconimage": "/assets/stackrole1.png",
+    "image": "/assets/batida-perfeita-favicon.png",
+    "iconimage": "/assets/batida-perfeita-favicon2.png",
+    "keywords": "musicas para malhar,musicas para academia, musicas para treinar, musicas para academia, musicas eletronicas, musica eletronica, musica gym, musica para fit, musicas para malhar,musica para malhar,músicas para malhar,música para malhar,musicas para treinar,musicas para treinar 2021,musicas para treino,musica para treinar,musica para malhar 2020,musica para malhar 2021,musicas de academia,músicas para malhar 2021,musica para treinar 2021,musicas para 2021,musicas eletronicas,musicas para treinar 2020,musica para malhar motivaçao,malhar,musicas para malhar 2020,malhar 2021,musica eletronica para malhar,melhor música eletrônica para praticar 2021",
+    "author": "Batida Perfeita",
+    "robots": "all",
     "twitterUsername": ""
   },
   "ga": "G-ZJ1KELX31M"

@@ -155,13 +155,13 @@ var plugins = [{
     "background_color": "#f7f0eb",
     "theme_color": "#a2466c",
     "display": "standalone",
-    "icon": "static/assets/stackrole1.png",
+    "icon": "static/assets/batida-perfeita-favicon2.png",
     "legacy": true,
     "theme_color_in_head": true,
     "cache_busting_mode": "query",
     "crossOrigin": "anonymous",
     "include_favicon": true,
-    "cacheDigest": "3d4a21f3dfc0ec52d1f4d7d7aabd07f7"
+    "cacheDigest": "038e61b916270308f347ccf97aa2367e"
   }
 }, {
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-feed/gatsby-ssr */ "./node_modules/gatsby-plugin-feed/gatsby-ssr.js"),

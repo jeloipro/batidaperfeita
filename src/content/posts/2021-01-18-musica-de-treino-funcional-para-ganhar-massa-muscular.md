@@ -11,22 +11,19 @@ featuredImage: /assets/2021-01-18-musica-de-treino-funcional-para-ganhar-massa-m
 <!-- #1: Embed through web URL -->
 `video: https://youtu.be/Gk4e8ZZANzg`
 
-😊 🎤 Abandoned, InfiNoise & Mendum 🎧 See You at the End (feat. Brenton Mattheus) [No Copyright]
+###😊 🎤 Abandoned, InfiNoise & Mendum 🎧 See You at the End (feat. Brenton Mattheus) [No Copyright]###
 
-🎧 "Listen on Spotify ▶ https://batidaperfeita.confira.link/spotify" 
-
-⏬ Free Download da Music / Stream ⏬
+**⏬ Free Download da Music / Stream ⏬**
 
 `audio: /assets/audio/2021-01-18-musica-de-treino-funcional-para-ganhar-massa-muscular.mp3`
 
-⏬ Melhores Músicas da Playlist 💙 
-▶ https://www.youtube.com/watch?v=WBrEy85Q5W4&list=PLM1nZ8E73E3Pvwma0mKPruAnPQkHsQCl7
+▶ <a href='https://www.youtube.com/watch?v=WBrEy85Q5W4&list=PLM1nZ8E73E3Pvwma0mKPruAnPQkHsQCl7' rel="nofollow noopener noreferrer" target="_blank">⏬ Melhores Músicas da Playlist 💙</a>
  
 🎼 #gym #malhar #abs
 
-⏩ Video Link: https://youtu.be/Gk4e8ZZANzg
+⏩ <a href='https://youtu.be/Gk4e8ZZANzg' rel="nofollow noopener noreferrer" target="_blank">Video Link</a>
 
-💣 "Music provided by http://spoti.fi/NCS" 
+💣 <a href='http://spoti.fi/NCS' rel="nofollow noopener noreferrer" target="_blank"> "Music provided by http://spoti.fi/NCS"</a>
 
 🎼 Letra (letter):
 
@@ -57,7 +54,6 @@ I can't pretend that I have a strong defense
 You will get me in the end
 So see you at the end
 Ooh
-
 🎼
 
-😎Inscreva-se no Canal: [https://www.batidaperfeita.confira.link/youtube](https://www.youtube.com/channel/UCp44Y4Anwn1Hlj0pWx7gqwg?sub_confirmation=1)
+😎<a href='https://www.youtube.com/channel/UCp44Y4Anwn1Hlj0pWx7gqwg?sub_confirmation=1' rel="nofollow noopener noreferrer" target="_blank">Inscreva-se no Canal</a>

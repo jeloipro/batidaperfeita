@@ -11,32 +11,26 @@ featuredImage: /assets/melhor-musica-treino-pesado-para-seu-dia.jpg
 <!-- #1: Embed through web URL -->
 `video: https://youtu.be/7bfY3bBth64`
 
-😊 Juice - Jeremy Black (No Copyright)
+###😊 Juice - Jeremy Black (No Copyright)###
 
-⏬ Free Download da Música / Stream ⏬
+**⏬ Free Download da Música / Stream ⏬**
 
 `audio: /assets/audio/7-2020-11-13.mp3`
 
-⏬ Música da Playlist 💙 Top Músicas para Malhar na Academia [2020] ⏬
-▶ https://www.youtube.com/playlist?list=PLM1nZ8E73E3NtqMYjsTjToyixN4ux5if7
- 
-#gym #academia #treinar
+▶ <a href='https://www.youtube.com/playlist?list=PLM1nZ8E73E3NtqMYjsTjToyixN4ux5if7' rel="nofollow noopener noreferrer" target="_blank">⏬ Música da Playlist 💙 Top Músicas para Malhar na Academia [2020]</a>
 
-🏆 MEUS MELHORES VÍDEOS (MY BEST VIDEOS) ⏬⏬:
+▶ **#gym #academia #treinar**
 
-⏩ Video Link: https://youtu.be/7bfY3bBth64
+**🏆 MEUS MELHORES VÍDEOS (MY BEST VIDEOS) ⏬⏬:**
 
-⏩ Música para Malhar na Academia ou em Casa [2020]
-https://www.youtube.com/watch?v=SPKRxS8QQ_A
+⏩ <a href='https://youtu.be/7bfY3bBth64' rel="nofollow noopener noreferrer" target="_blank">Video Link</a>
 
-⏩ Musica para Treinar na Academia ou em Casa [2020]
-https://youtu.be/yxwERCGNSXE
+⏩ <a href='https://www.youtube.com/watch?v=SPKRxS8QQ_A' rel="nofollow noopener noreferrer" target="_blank">Música para Malhar na Academia ou em Casa - 2020</a>
 
-⏩ Música para Fire Music Música Academia [2020]
-https://www.youtube.com/watch?v=WJHjEwQrKEs
+⏩ <a href='https://youtu.be/yxwERCGNSXE' rel="nofollow noopener noreferrer" target="_blank">Musica para Treinar na Academia ou em Casa - 2020</a>
 
-⏩ Melhor Música de Academia [2020]
-https://www.youtube.com/watch?v=sNe0xcZXFgE
+⏩ <a href='https://www.youtube.com/watch?v=WJHjEwQrKEs' rel="nofollow noopener noreferrer" target="_blank">Música para Fire Music Música Academia - 2020</a>
 
-⏩ Mais Empolgante Música de Gym Motivation
-https://www.youtube.com/watch?v=fUxJvUfDe1o
+⏩ <a href='https://www.youtube.com/watch?v=sNe0xcZXFgE' rel="nofollow noopener noreferrer" target="_blank">Melhor Música de Academia 2020</a>
+
+⏩ <a href='https://www.youtube.com/watch?v=fUxJvUfDe1o' rel="nofollow noopener noreferrer" target="_blank">Mais Empolgante Música de Gym Motivation</a>

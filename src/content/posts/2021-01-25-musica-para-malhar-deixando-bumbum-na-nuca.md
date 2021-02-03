@@ -11,20 +11,17 @@ featuredImage: /assets/2021-01-25-musica-para-malhar-deixando-bumbum-na-nuca.jpg
 <!-- #1: Embed through web URL -->
 `video: https://youtu.be/1iZdc--ACKc`
 
-😊 🎤 Tom Wilson 🎧 Be Myself [No Copyright]
+###😊 🎤 Tom Wilson 🎧 Be Myself [No Copyright]###
 
-🎧 "Listen on Spotify ▶ https://batidaperfeita.confira.link/spotify" 
-
-🆓 Free Music Download 🔽
+**🆓 Free Music Download 🔽**
 
 `audio: /assets/audio/2021-01-25-musica-para-malhar-deixando-bumbum-na-nuca.mp3`
 
-⏬ Melhores Músicas da Playlist 💙 
-▶ https://www.youtube.com/watch?v=WBrEy85Q5W4&list=PLM1nZ8E73E3Pvwma0mKPruAnPQkHsQCl7
+▶ <a href='https://www.youtube.com/watch?v=WBrEy85Q5W4&list=PLM1nZ8E73E3Pvwma0mKPruAnPQkHsQCl7' rel="nofollow noopener noreferrer" target="_blank">⏬ Melhores Músicas da Playlist 💙</a>
  
-🎼 #treino #batidaperfeita #malhar
+🎼 **#treino #batidaperfeita #malhar**
 
-💣 "Music provided by http://spoti.fi/NCS" 
+💣 <a href='http://spoti.fi/NCS' rel="nofollow noopener noreferrer" target="_blank">"Music provided by http://spoti.fi/NCS"</a>
 
 🎼 Letra (letter):
 
@@ -73,4 +70,4 @@ Let me be myself<br />
 
 Fonte: Musixmatch
 
-😎Inscreva-se no Canal: https://batidaperfeita.confira.link/youtube
+😎Inscreva-se no Canal: <a href='https://batidaperfeita.confira.link/youtube' rel="nofollow noopener noreferrer" target="_blank"></a>
